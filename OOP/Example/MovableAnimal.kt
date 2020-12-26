@@ -1,0 +1,1 @@
+interface MovableAnimal: Animal, Movable
