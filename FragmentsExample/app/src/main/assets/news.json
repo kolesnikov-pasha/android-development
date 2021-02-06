@@ -1,0 +1,1379 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 500,
+  "results": [
+    {
+      "slug_name": "06nyvirus-hudsonyards",
+      "section": "New York",
+      "subsection": "",
+      "title": "How the Pandemic Left the $25 Billion Hudson Yards Eerily Deserted",
+      "abstract": "The largest private development in U.S. history has attracted marquee companies, but is struggling with unsold luxury condos and a mall barren of shoppers.",
+      "url": "https://www.nytimes.com/2021/02/06/nyregion/hudson-yards-nyc.html",
+      "byline": "BY MATTHEW HAAG AND DANA RUBINSTEIN",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvirus-hudsonyards1/00nyvirus-hudsonyards1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-06T03:00:09-05:00",
+      "created_date": "2021-02-06T03:00:09-05:00",
+      "published_date": "2021-02-06T03:00:09-05:00",
+      "first_published_date": "2021-02-06T03:00:09-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Real Estate (Commercial)",
+        "Shopping Centers and Malls",
+        "Shopping and Retail",
+        "Real Estate and Housing (Residential)",
+        "Foreign Investments"
+      ],
+      "org_facet": [
+        "Related Cos",
+        "Amtrak",
+        "Facebook Inc",
+        "Metropolitan Transportation Authority",
+        "Neiman Marcus Group"
+      ],
+      "per_facet": [
+        "Ross, Stephen M"
+      ],
+      "geo_facet": [
+        "Hudson Yards (Manhattan, NY)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvirus-hudsonyards1/00nyvirus-hudsonyards1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The company that built Hudson Yards had said the entire project would be finished in 2024. It no longer offers an estimated completion date.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvirus-hudsonyards1/00nyvirus-hudsonyards1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The company that built Hudson Yards had said the entire project would be finished in 2024. It no longer offers an estimated completion date.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvirus-hudsonyards1/00nyvirus-hudsonyards1-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The company that built Hudson Yards had said the entire project would be finished in 2024. It no longer offers an estimated completion date.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/02/nyregion/00nyvirus-hudsonyards1/00nyvirus-hudsonyards1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The company that built Hudson Yards had said the entire project would be finished in 2024. It no longer offers an estimated completion date.",
+          "copyright": "Todd Heisler/The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "06dc-scotus-church",
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Supreme Court Partly Backs Religious Challenge to California Virus Restrictions",
+      "abstract": "The ruling followed a similar one in a case from New York and provided more evidence of a change in the court’s direction after the death of Justice Ruth Bader Ginsburg.",
+      "url": "https://www.nytimes.com/2021/02/06/us/supreme-court-california-church-coronavirus.html",
+      "byline": "BY ADAM LIPTAK",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-scotus-churcs/merlin_182755137_d1905835-6128-42a0-8b6a-16d2faa750d7-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-06T00:34:38-05:00",
+      "created_date": "2021-02-06T00:34:38-05:00",
+      "published_date": "2021-02-06T00:34:38-05:00",
+      "first_published_date": "2021-02-06T00:34:38-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Places of Worship",
+        "United States Politics and Government",
+        "Decisions and Verdicts",
+        "Freedom of Religion"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Roberts, John G Jr",
+        "Barrett, Amy Coney",
+        "Ginsburg, Ruth Bader",
+        "Newsom, Gavin"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-scotus-churcs/merlin_182755137_d1905835-6128-42a0-8b6a-16d2faa750d7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a brief, unsigned opinion late Friday night, the Supreme Court left in place a 25 percent capacity restriction and a prohibition on singing and chanting in religious services in California.",
+          "copyright": "Adam Beam/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-scotus-churcs/merlin_182755137_d1905835-6128-42a0-8b6a-16d2faa750d7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a brief, unsigned opinion late Friday night, the Supreme Court left in place a 25 percent capacity restriction and a prohibition on singing and chanting in religious services in California.",
+          "copyright": "Adam Beam/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-scotus-churcs/merlin_182755137_d1905835-6128-42a0-8b6a-16d2faa750d7-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a brief, unsigned opinion late Friday night, the Supreme Court left in place a 25 percent capacity restriction and a prohibition on singing and chanting in religious services in California.",
+          "copyright": "Adam Beam/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-scotus-churcs/merlin_182755137_d1905835-6128-42a0-8b6a-16d2faa750d7-articleInline.jpg",
+          "format": "Normal",
+          "height": 132,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a brief, unsigned opinion late Friday night, the Supreme Court left in place a 25 percent capacity restriction and a prohibition on singing and chanting in religious services in California.",
+          "copyright": "Adam Beam/Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "05HP-virus-tab-fader-late",
+      "section": "Briefing",
+      "subsection": "",
+      "title": "Friday late",
+      "abstract": "friday late",
+      "url": "https://static01.nyt.com/slideshow/2021/02/06/briefing/friday-late.html",
+      "byline": "",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/briefing/05HP-virus-tab-fader-late-slide-9V5K/05HP-virus-tab-fader-late-slide-9V5K-thumbStandard.jpg",
+      "item_type": "Slideshow",
+      "source": "New York Times",
+      "updated_date": "2021-02-06T00:34:25-05:00",
+      "created_date": "2021-02-06T00:12:43-05:00",
+      "published_date": "2021-02-06T00:12:43-05:00",
+      "first_published_date": "2021-02-06T00:12:43-05:00",
+      "material_type_facet": "Slideshow",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/briefing/05HP-virus-tab-fader-late-slide-9V5K/05HP-virus-tab-fader-late-slide-9V5K-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mohammed Saber/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/briefing/05HP-virus-tab-fader-late-slide-9V5K/05HP-virus-tab-fader-late-slide-9V5K-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mohammed Saber/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/briefing/05HP-virus-tab-fader-late-slide-9V5K/05HP-virus-tab-fader-late-slide-9V5K-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mohammed Saber/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/briefing/05HP-virus-tab-fader-late-slide-9V5K/05HP-virus-tab-fader-late-slide-9V5K-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mohammed Saber/EPA, via Shutterstock"
+        }
+      ]
+    },
+    {
+      "slug_name": "06xp-chile",
+      "section": "World",
+      "subsection": "Americas",
+      "title": "Police Shoot a Street Juggler in Chile, Setting Off Protests",
+      "abstract": "Buildings were burned in the southern town of Panguipulli after the fatal shooting, which was captured on video.",
+      "url": "https://www.nytimes.com/2021/02/06/world/americas/chile-police-shooting.html",
+      "byline": "BY MIKE IVES",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/06/multimedia/06xp-chile/06xp-chile-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-06T03:44:25-05:00",
+      "created_date": "2021-02-06T00:06:10-05:00",
+      "published_date": "2021-02-06T00:06:10-05:00",
+      "first_published_date": "2021-02-06T00:06:10-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings",
+        "Fires and Firefighters"
+      ],
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": [
+        "Chile"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/multimedia/06xp-chile/06xp-chile-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The mayor’s office was set afire on Friday in Panguipulli, Chile.",
+          "copyright": "Alicia Caceres/Aton Chile, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/multimedia/06xp-chile/merlin_183294264_1adfe5f5-8a8d-4c9c-99a4-78de4d89779c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The mayor’s office was set afire on Friday in Panguipulli, Chile.",
+          "copyright": "Alicia Caceres/Aton Chile, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/multimedia/06xp-chile/merlin_183294264_1adfe5f5-8a8d-4c9c-99a4-78de4d89779c-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The mayor’s office was set afire on Friday in Panguipulli, Chile.",
+          "copyright": "Alicia Caceres/Aton Chile, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/multimedia/06xp-chile/merlin_183294264_1adfe5f5-8a8d-4c9c-99a4-78de4d89779c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The mayor’s office was set afire on Friday in Panguipulli, Chile.",
+          "copyright": "Alicia Caceres/Aton Chile, via Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "05sb-reid",
+      "section": "Sports",
+      "subsection": "N.F.L.",
+      "title": "Britt Reid, a Chiefs Assistant Coach, Is Involved in a Car Crash",
+      "abstract": "The team released a statement confirming that Reid, the son of Kansas City’s head coach, Andy Reid, had been in an accident but provided no other details.",
+      "url": "https://www.nytimes.com/2021/02/05/sports/football/britt-reid-chiefs-crash.html",
+      "byline": "BY KEN BELSON AND KEVIN DRAPER",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/sports/05sb-reid-1/merlin_168311916_8e63ea17-8223-4f9e-86d7-17d64b2a48b8-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T23:12:40-05:00",
+      "created_date": "2021-02-05T23:12:40-05:00",
+      "published_date": "2021-02-05T23:12:40-05:00",
+      "first_published_date": "2021-02-05T23:12:40-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Football",
+        "Traffic Accidents and Safety",
+        "Super Bowl"
+      ],
+      "org_facet": [
+        "Kansas City Chiefs"
+      ],
+      "per_facet": [
+        "Reid, Andy",
+        "Reid, Britt"
+      ],
+      "geo_facet": [
+        "Kansas City (Mo)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/sports/05sb-reid-1/merlin_168311916_8e63ea17-8223-4f9e-86d7-17d64b2a48b8-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Coach Andy Reid with his son Britt, an assistant coach, after the Chiefs won the Super Bowl last year.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/sports/05sb-reid-1/merlin_168311916_8e63ea17-8223-4f9e-86d7-17d64b2a48b8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Coach Andy Reid with his son Britt, an assistant coach, after the Chiefs won the Super Bowl last year.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/sports/05sb-reid-1/merlin_168311916_8e63ea17-8223-4f9e-86d7-17d64b2a48b8-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Coach Andy Reid with his son Britt, an assistant coach, after the Chiefs won the Super Bowl last year.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/sports/05sb-reid-1/merlin_168311916_8e63ea17-8223-4f9e-86d7-17d64b2a48b8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Coach Andy Reid with his son Britt, an assistant coach, after the Chiefs won the Super Bowl last year.",
+          "copyright": "Patrick Semansky/Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "06corrections",
+      "section": "Corrections",
+      "subsection": "",
+      "title": "Corrections: Feb. 6, 2021",
+      "abstract": "Corrections that appeared in print on Saturday, Feb. 6, 2021.",
+      "url": "https://www.nytimes.com/2021/02/05/pageoneplus/corrections-feb-6-2021.html",
+      "byline": "",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T22:22:34-05:00",
+      "created_date": "2021-02-05T22:22:34-05:00",
+      "published_date": "2021-02-05T22:22:34-05:00",
+      "first_published_date": "2021-02-05T22:22:34-05:00",
+      "material_type_facet": "Correction",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": null
+    },
+    {
+      "slug_name": "06quoteweb",
+      "section": "Today’s Paper",
+      "subsection": "",
+      "title": "Quotation of the Day: Russia Casts Out Diplomats Over Navalny Protests",
+      "abstract": "Quotation of the Day for Saturday, February 6, 2021.",
+      "url": "https://www.nytimes.com/2021/02/05/todayspaper/quotation-of-the-day-russia-casts-out-diplomats-over-navalny-protests.html",
+      "byline": "",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T22:19:30-05:00",
+      "created_date": "2021-02-05T22:19:30-05:00",
+      "published_date": "2021-02-05T22:19:30-05:00",
+      "first_published_date": "2021-02-05T22:19:30-05:00",
+      "material_type_facet": "Quote",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": null
+    },
+    {
+      "slug_name": "06wordplay-big-scoop",
+      "section": "Crosswords \u0026 Games",
+      "subsection": "",
+      "title": "Big Scoop",
+      "abstract": "Kameron Austin Collins ends our week with a flourish.",
+      "url": "https://www.nytimes.com/2021/02/05/crosswords/daily-puzzle-2021-02-06.html",
+      "byline": "BY CAITLIN LOVINGER",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/06/crosswords/06wordplay-atlas/06wordplay-atlas-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-06T00:22:52-05:00",
+      "created_date": "2021-02-05T22:00:04-05:00",
+      "published_date": "2021-02-05T22:00:04-05:00",
+      "first_published_date": "2021-02-05T22:00:04-05:00",
+      "material_type_facet": "News",
+      "kicker": "Wordplay, The CROSSWORD COLUMN",
+      "subheadline": "",
+      "des_facet": [
+        "Crossword Puzzles"
+      ],
+      "org_facet": null,
+      "per_facet": [
+        "Collins, Kameron Austin"
+      ],
+      "geo_facet": [
+        "Catskills (NYS Area)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/crosswords/06wordplay-atlas/06wordplay-atlas-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pecs on the Lee Lawrie Atlas statue at Rockefeller Center in 2020.",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/crosswords/06wordplay-atlas/merlin_171541524_8141d705-902a-4100-bcec-db4bdf2a52d7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pecs on the Lee Lawrie Atlas statue at Rockefeller Center in 2020.",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/crosswords/06wordplay-atlas/merlin_171541524_8141d705-902a-4100-bcec-db4bdf2a52d7-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pecs on the Lee Lawrie Atlas statue at Rockefeller Center in 2020.",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/06/crosswords/06wordplay-atlas/merlin_171541524_8141d705-902a-4100-bcec-db4bdf2a52d7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pecs on the Lee Lawrie Atlas statue at Rockefeller Center in 2020.",
+          "copyright": "Vincent Tullo for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "05hollywood-writers",
+      "section": "Business",
+      "subsection": "Media",
+      "title": "Feud Between Hollywood Agents and TV Writers Comes to an End",
+      "abstract": "A fight over conflict-of-interest claims began nearly two years ago. William Morris Endeavor was the last major agency to reach a new agreement.",
+      "url": "https://www.nytimes.com/2021/02/05/business/media/hollywood-writers-agencies-deal.html",
+      "byline": "BY JOHN KOBLIN",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/business/05hollywood-writers-1/05hollywood-writers-1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T21:50:12-05:00",
+      "created_date": "2021-02-05T21:24:56-05:00",
+      "published_date": "2021-02-05T21:24:56-05:00",
+      "first_published_date": "2021-02-05T21:24:56-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Television",
+        "Writing and Writers",
+        "Organized Labor",
+        "Agents (Business)"
+      ],
+      "org_facet": [
+        "Writers Guild of America",
+        "Morris, William, Endeavor Entertainment"
+      ],
+      "per_facet": [
+        "Emanuel, Ariel Z"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/business/05hollywood-writers-1/05hollywood-writers-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Morris Endeavor, which is controlled by a company run by Ariel Emanuel, reached an agreement on Friday with the Writers Guild of America. ",
+          "copyright": "Stefanie Keenan/Getty Images for the Los Angeles County Museum of Art"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/business/05hollywood-writers-1/05hollywood-writers-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Morris Endeavor, which is controlled by a company run by Ariel Emanuel, reached an agreement on Friday with the Writers Guild of America. ",
+          "copyright": "Stefanie Keenan/Getty Images for the Los Angeles County Museum of Art"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/business/05hollywood-writers-1/05hollywood-writers-1-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Morris Endeavor, which is controlled by a company run by Ariel Emanuel, reached an agreement on Friday with the Writers Guild of America. ",
+          "copyright": "Stefanie Keenan/Getty Images for the Los Angeles County Museum of Art"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/business/05hollywood-writers-1/05hollywood-writers-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Morris Endeavor, which is controlled by a company run by Ariel Emanuel, reached an agreement on Friday with the Writers Guild of America. ",
+          "copyright": "Stefanie Keenan/Getty Images for the Los Angeles County Museum of Art"
+        }
+      ]
+    },
+    {
+      "slug_name": "05new-washington-briefing-houthi",
+      "section": "U.S.",
+      "subsection": "",
+      "title": "State Dept. lifts terrorist designation against Houthi rebels issued in Trump’s final days.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment/state-dept-lifts-terrorist-designation-against-houthi-rebels-issued-in-trumps-final-days",
+      "byline": "BY LARA JAKES AND ERIC SCHMITT",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/05dc-houthi-photo-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T21:20:16-05:00",
+      "created_date": "2021-02-05T21:20:16-05:00",
+      "published_date": "2021-02-05T21:20:16-05:00",
+      "first_published_date": "2021-02-05T21:20:16-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/05dc-houthi-photo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/merlin_182819595_9505f65c-0647-4a05-a6c0-c5c6a0477729-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/merlin_182819595_9505f65c-0647-4a05-a6c0-c5c6a0477729-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/merlin_182819595_9505f65c-0647-4a05-a6c0-c5c6a0477729-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        }
+      ]
+    },
+    {
+      "slug_name": "05dc-biden",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Biden Bars Trump From Receiving Intelligence Briefings, Citing ‘Erratic Behavior’",
+      "abstract": "Mr. Biden said there was “no need” for former President Donald J. Trump to get the briefings, traditionally given to ex-presidents as a courtesy and to keep them informed if their advice is needed.",
+      "url": "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.html",
+      "byline": "BY DAVID E. SANGER",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-thumbStandard-v3.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T21:06:31-05:00",
+      "created_date": "2021-02-05T21:06:31-05:00",
+      "published_date": "2021-02-05T21:06:31-05:00",
+      "first_published_date": "2021-02-05T21:06:31-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Classified Information and State Secrets",
+        "United States Politics and Government",
+        "Impeachment"
+      ],
+      "org_facet": [
+        "Office of the Director of National Intelligence"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Schiff, Adam B"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden on Friday at Joint Base Andrews near Washington.",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden on Friday at Joint Base Andrews near Washington.",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-mediumThreeByTwo440-v2.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden on Friday at Joint Base Andrews near Washington.",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden on Friday at Joint Base Andrews near Washington.",
+          "copyright": "Samuel Corum for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "05new-washington-briefing-house-fines",
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Two G.O.P. House members, Louie Gohmert and Andrew Clyde, are fined for bypassing security screening.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment/two-gop-house-members-louie-gohmert-and-andrew-clyde-are-fined-for-bypassing-security-screening",
+      "byline": "BY THOMAS KAPLAN",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-fines/05new-washington-brief-fines-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T21:41:15-05:00",
+      "created_date": "2021-02-05T20:55:14-05:00",
+      "published_date": "2021-02-05T20:55:14-05:00",
+      "first_published_date": "2021-02-05T20:55:14-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-fines/05new-washington-brief-fines-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Louie Gohmert, Republican of Texas, during a news conference with members of the House Freedom Caucus in December.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-fines/merlin_180781374_52683906-32fe-42b5-9c4d-104f762a91d3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Louie Gohmert, Republican of Texas, during a news conference with members of the House Freedom Caucus in December.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-fines/merlin_180781374_52683906-32fe-42b5-9c4d-104f762a91d3-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Louie Gohmert, Republican of Texas, during a news conference with members of the House Freedom Caucus in December.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-fines/merlin_180781374_52683906-32fe-42b5-9c4d-104f762a91d3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Louie Gohmert, Republican of Texas, during a news conference with members of the House Freedom Caucus in December.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "05dc-houthi",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Biden Reverses Trump Terrorist Designation for Houthis in Yemen",
+      "abstract": "Critics of the Trump administration action said the penalties would punish the millions of starving people in Yemen more than the Houthi rebels.",
+      "url": "https://www.nytimes.com/2021/02/05/us/politics/biden-houthi-yemen-terrorist-designation.html",
+      "byline": "BY LARA JAKES AND ERIC SCHMITT",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/05dc-houthi-photo-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T23:23:34-05:00",
+      "created_date": "2021-02-05T20:45:10-05:00",
+      "published_date": "2021-02-05T20:45:10-05:00",
+      "first_published_date": "2021-02-05T20:45:10-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "United States International Relations",
+        "Humanitarian Aid",
+        "Terrorism",
+        "War Crimes, Genocide and Crimes Against Humanity"
+      ],
+      "org_facet": [
+        "Houthis"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Blinken, Antony J",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Yemen"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/05dc-houthi-photo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/merlin_182819595_9505f65c-0647-4a05-a6c0-c5c6a0477729-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/merlin_182819595_9505f65c-0647-4a05-a6c0-c5c6a0477729-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/lens/05dc-houthi-photo/merlin_182819595_9505f65c-0647-4a05-a6c0-c5c6a0477729-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Houthi militiaman keeps watch during a protest in Yemen’s capital, Sana, last month.",
+          "copyright": "Yahya Arhab/EPA, via Shutterstock"
+        }
+      ]
+    },
+    {
+      "slug_name": "05ICC-israel",
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "I.C.C. Rules It Has Jurisdiction to Examine Possible Israel War Crimes",
+      "abstract": "The International Criminal Court on Friday said it has the authority to investigate alleged crimes in the occupied territories, in a ruling condemned by Israel and praised by Palestinians.",
+      "url": "https://www.nytimes.com/2021/02/05/world/middleeast/icc-israel-war-crimes.html",
+      "byline": "BY ISABEL KERSHNER",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/world/05icc-israel-1sub/05icc-israel-1sub-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T21:09:44-05:00",
+      "created_date": "2021-02-05T20:25:11-05:00",
+      "published_date": "2021-02-05T20:25:11-05:00",
+      "first_published_date": "2021-02-05T20:25:11-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": [
+        "International Criminal Court",
+        "Hamas",
+        "Palestinian Authority",
+        "State Department"
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin",
+        "Abbas, Mahmoud",
+        "Bensouda, Fatou"
+      ],
+      "geo_facet": [
+        "Israel",
+        "Gaza Strip",
+        "West Bank"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05icc-israel-1sub/05icc-israel-1sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Israeli tanks near the border with Gaza in 2014. The International Criminal Court’s ruling comes six years after it began its investigation of Israeli actions in the 50-day Gaza war.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05icc-israel-1sub/05icc-israel-1sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Israeli tanks near the border with Gaza in 2014. The International Criminal Court’s ruling comes six years after it began its investigation of Israeli actions in the 50-day Gaza war.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05icc-israel-1sub/05icc-israel-1sub-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Israeli tanks near the border with Gaza in 2014. The International Criminal Court’s ruling comes six years after it began its investigation of Israeli actions in the 50-day Gaza war.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05icc-israel-1sub/merlin_99310513_df03dac8-4bd5-446c-8b6a-b72f5d8656fd-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Israeli tanks near the border with Gaza in 2014. The International Criminal Court’s ruling comes six years after it began its investigation of Israeli actions in the 50-day Gaza war.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "05new-washington-briefing-biden-trump-intel",
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Biden says he will bar Trump from receiving intelligence briefings, saying his ‘erratic behavior’ cannot be trusted.",
+      "abstract": "President Biden said the former president’s behavior worried him “unrelated to the insurrection” that gave rise to the second impeachment of Donald J. Trump.",
+      "url": "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment/biden-trump-intelligence-briefings",
+      "byline": "BY DAVID E. SANGER",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-briefings2/05new-washington-brief-briefings2-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T21:13:01-05:00",
+      "created_date": "2021-02-05T20:13:52-05:00",
+      "published_date": "2021-02-05T20:13:52-05:00",
+      "first_published_date": "2021-02-05T20:13:52-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-briefings2/05new-washington-brief-briefings2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joe Biden has decided not to share intelligence briefings with former President Trump, breaking from tradition.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-briefings2/05new-washington-brief-briefings2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joe Biden has decided not to share intelligence briefings with former President Trump, breaking from tradition.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-briefings2/05new-washington-brief-briefings2-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joe Biden has decided not to share intelligence briefings with former President Trump, breaking from tradition.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-brief-briefings2/05new-washington-brief-briefings2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joe Biden has decided not to share intelligence briefings with former President Trump, breaking from tradition.",
+          "copyright": "Stefani Reynolds for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "05virus-briefing-school-battles",
+      "section": "World",
+      "subsection": "",
+      "title": "Chicago and Philadelphia tell some teachers to return to classrooms or face discipline.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2021/02/05/world/covid-19-coronavirus/chicago-and-philadelphia-tell-some-teachers-to-return-to-classrooms-or-face-discipline",
+      "byline": "BY KATE TAYLOR",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/world/05virus-briefing-school-battles/05virus-briefing-school-battles-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T20:13:45-05:00",
+      "created_date": "2021-02-05T20:13:45-05:00",
+      "published_date": "2021-02-05T20:13:45-05:00",
+      "first_published_date": "2021-02-05T20:13:45-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-briefing-school-battles/05virus-briefing-school-battles-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prekindergarten and some special education teachers in Chicago have been told to return to classrooms on Monday.",
+          "copyright": "Anthony Vazquez/Chicago Sun-Times, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-briefing-school-battles/merlin_183131991_8ebd1f36-e19f-48ec-ac0e-d483d4deb01c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prekindergarten and some special education teachers in Chicago have been told to return to classrooms on Monday.",
+          "copyright": "Anthony Vazquez/Chicago Sun-Times, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-briefing-school-battles/merlin_183131991_8ebd1f36-e19f-48ec-ac0e-d483d4deb01c-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prekindergarten and some special education teachers in Chicago have been told to return to classrooms on Monday.",
+          "copyright": "Anthony Vazquez/Chicago Sun-Times, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-briefing-school-battles/merlin_183131991_8ebd1f36-e19f-48ec-ac0e-d483d4deb01c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prekindergarten and some special education teachers in Chicago have been told to return to classrooms on Monday.",
+          "copyright": "Anthony Vazquez/Chicago Sun-Times, via Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "05virus-briefing-canadacruise",
+      "section": "World",
+      "subsection": "",
+      "title": "Canada extends its cruise ship ban until 2022, and Alaska’s leaders aren’t happy.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2021/02/05/world/covid-19-coronavirus/canada-extends-its-cruise-ship-ban-until-2022-and-alaskas-leaders-arent-happy",
+      "byline": "BY ISABELLA GRULLÓN PAZ",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/world/05virus-brief-canadacruise/05virus-brief-canadacruise-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T20:40:30-05:00",
+      "created_date": "2021-02-05T20:07:59-05:00",
+      "published_date": "2021-02-05T20:07:59-05:00",
+      "first_published_date": "2021-02-05T20:07:59-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-brief-canadacruise/05virus-brief-canadacruise-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Canadian government has extended a ban on cruise ships, like this one moving through Alaska’s Inside Passage, through February 2022.",
+          "copyright": "Kathy Matheson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-brief-canadacruise/05virus-brief-canadacruise-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Canadian government has extended a ban on cruise ships, like this one moving through Alaska’s Inside Passage, through February 2022.",
+          "copyright": "Kathy Matheson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-brief-canadacruise/05virus-brief-canadacruise-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Canadian government has extended a ban on cruise ships, like this one moving through Alaska’s Inside Passage, through February 2022.",
+          "copyright": "Kathy Matheson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/world/05virus-brief-canadacruise/merlin_183273954_7d1094ff-7410-47b4-b458-80c7185b9d3b-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Canadian government has extended a ban on cruise ships, like this one moving through Alaska’s Inside Passage, through February 2022.",
+          "copyright": "Kathy Matheson/Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "05ny-tenney",
+      "section": "New York",
+      "subsection": "",
+      "title": "Last Undecided House Race Finally Goes to Republican, by 109 Votes",
+      "abstract": "Claudia Tenney, a Republican from Central New York, regained a seat she lost in 2018 after a judge ruled that her 109-vote victory was legitimate.",
+      "url": "https://www.nytimes.com/2021/02/05/nyregion/claudia-tenney-brindisi-election.html",
+      "byline": "BY LUIS FERRÉ-SADURNÍ",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/nyregion/05ny-tenney/05ny-tenney-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T19:48:04-05:00",
+      "created_date": "2021-02-05T19:42:15-05:00",
+      "published_date": "2021-02-05T19:42:15-05:00",
+      "first_published_date": "2021-02-05T19:42:15-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Elections, House of Representatives",
+        "Elections, Courts and the Judiciary"
+      ],
+      "org_facet": [
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Tenney, Claudia",
+        "Brindisi, Anthony"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/nyregion/05ny-tenney/05ny-tenney-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The ruling will allow Claudia Tenney to return to Washington, where she established herself as a close ally of President Donald J. Trump, but also alienated some voters with her divisive stances and rhetoric.",
+          "copyright": "Heather Ainsworth for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/nyregion/05ny-tenney/05ny-tenney-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The ruling will allow Claudia Tenney to return to Washington, where she established herself as a close ally of President Donald J. Trump, but also alienated some voters with her divisive stances and rhetoric.",
+          "copyright": "Heather Ainsworth for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/nyregion/05ny-tenney/05ny-tenney-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The ruling will allow Claudia Tenney to return to Washington, where she established herself as a close ally of President Donald J. Trump, but also alienated some voters with her divisive stances and rhetoric.",
+          "copyright": "Heather Ainsworth for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/nyregion/05ny-tenney/05ny-tenney-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The ruling will allow Claudia Tenney to return to Washington, where she established herself as a close ally of President Donald J. Trump, but also alienated some voters with her divisive stances and rhetoric.",
+          "copyright": "Heather Ainsworth for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "05bensinger",
+      "section": "Opinion",
+      "subsection": "",
+      "title": "People Want Real Change From Facebook. Its ‘Supreme Court’ Isn’t Delivering.",
+      "abstract": "The first decisions from the new Oversight Board have been issued. The results are underwhelming.",
+      "url": "https://www.nytimes.com/2021/02/05/opinion/facebook-supreme-court.html",
+      "byline": "BY GREG BENSINGER",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/opinion/05bensinger1/05bensinger1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T21:59:16-05:00",
+      "created_date": "2021-02-05T19:27:02-05:00",
+      "published_date": "2021-02-05T19:27:02-05:00",
+      "first_published_date": "2021-02-05T19:27:02-05:00",
+      "material_type_facet": "Op-Ed",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Social Media",
+        "Rumors and Misinformation",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Facebook Inc",
+        "Oversight Board (Facebook)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Zuckerberg, Mark E"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/opinion/05bensinger1/05bensinger1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There is ample evidence that Facebook was used to help organize the Capitol invasion.",
+          "copyright": "Shannon Stapleton/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/opinion/05bensinger1/05bensinger1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There is ample evidence that Facebook was used to help organize the Capitol invasion.",
+          "copyright": "Shannon Stapleton/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/opinion/05bensinger1/05bensinger1-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There is ample evidence that Facebook was used to help organize the Capitol invasion.",
+          "copyright": "Shannon Stapleton/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/opinion/05bensinger1/merlin_182065359_08870fd2-0165-490f-97b0-83c3a5d6f71c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There is ample evidence that Facebook was used to help organize the Capitol invasion.",
+          "copyright": "Shannon Stapleton/Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "05distortions-lindell",
+      "section": "Technology",
+      "subsection": "",
+      "title": "Three false claims about the election made in Mike Lindell’s new film.",
+      "abstract": "One America News ran an extensive disclaimer before the broadcast.",
+      "url": "https://www.nytimes.com/2021/02/05/technology/three-false-claims-about-the-election-made-in-mike-lindells-new-film.html",
+      "byline": "BY KELLEN BROWNING AND TIFFANY HSU",
+      "thumbnail_standard": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/05distortions-lindell-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2021-02-05T19:22:04-05:00",
+      "created_date": "2021-02-05T19:22:04-05:00",
+      "published_date": "2021-02-05T19:22:04-05:00",
+      "first_published_date": "2021-02-05T19:22:04-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [
+        "One America",
+        "My Pillow Inc",
+        "Smartmatic SGO Group"
+      ],
+      "per_facet": [
+        "Lindell, Mike",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/05distortions-lindell-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/merlin_182869206_5423212d-e504-4b4e-8658-5b66292fbe6d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/merlin_182869206_5423212d-e504-4b4e-8658-5b66292fbe6d-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05distortions-lindell/merlin_182869206_5423212d-e504-4b4e-8658-5b66292fbe6d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Lindell, the chief executive of MyPillow, has long been a vocal supporter of former President Donald J. Trump.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ]
+    }
+  ]
+}
