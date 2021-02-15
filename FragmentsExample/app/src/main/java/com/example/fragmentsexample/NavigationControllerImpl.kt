@@ -17,10 +17,16 @@ class NavigationControllerImpl(
     }
 
     override fun open() {
-        fragmentManager.beginTransaction().add(newsListFragmentHolder.id, newsListFragment).addToBackStack(NEWS_LIST).commit()
+        if (fragmentManager.findFragmentByTag(NEWS_LIST) != null) {
+            return
+        }
+        fragmentManager.beginTransaction().add(newsListFragmentHolder.id, newsListFragment, NEWS_LIST).addToBackStack(NEWS_LIST).commit()
     }
 
     override fun onNewsClick() {
+        if (fragmentManager.findFragmentByTag(NEWS) != null) {
+            return
+        }
         newsFragmentHolder.visibility = View.VISIBLE
         fragmentManager.beginTransaction().add(newsFragmentHolder.id, newsFragment, NEWS).addToBackStack(NEWS).commit()
     }

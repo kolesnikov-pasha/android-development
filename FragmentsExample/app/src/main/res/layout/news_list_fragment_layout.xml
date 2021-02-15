@@ -1,47 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
+<androidx.recyclerview.widget.RecyclerView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:id="@+id/news_list">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
-
-        <TextView
-            android:id="@+id/news_1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp"
-            android:textSize="24sp"
-            android:textColor="@android:color/black"
-            android:text="Физики объяснили появление капель-многогранников в эмульсиях" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp"
-            android:textSize="24sp"
-            android:textColor="@android:color/black"
-            android:text="Зарождение кристалла впервые записали на видео" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp"
-            android:textSize="24sp"
-            android:textColor="@android:color/black"
-            android:text="Физики изучили течение жидкости сквозь пористый материал по узорам на поверхности" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp"
-            android:textSize="24sp"
-            android:textColor="@android:color/black"
-            android:text="Астрономы показали скопление галактик в Печи" />
-
-    </LinearLayout>
-
-</ScrollView>
+</androidx.recyclerview.widget.RecyclerView>
