@@ -12,10 +12,10 @@ class NewsListAdapter(
     }
 
     override fun getItemCount(): Int {
-        return model.news.size
+        return model.results.size
     }
 
     override fun onBindViewHolder(holder: NewsViewHolder, position: Int) {
-        holder.bind(model.news[position])
+        holder.bind(model.results[position])
     }
 }

@@ -5,18 +5,41 @@ import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.fragmentsexample.model.NewsListParser
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+import com.example.fragmentsexample.api.NewsListListener
+import com.example.fragmentsexample.api.NewsListProvider
+import com.example.fragmentsexample.model.NewsListModel
 
 class NewsListFragment : Fragment(R.layout.news_list_fragment_layout) {
     var navigationController: NavigationController? = null
-    lateinit var newsList: RecyclerView
+    lateinit var swipeRefreshLayout: SwipeRefreshLayout
+    lateinit var newsListView: RecyclerView
+    lateinit var loadingView: View
+    lateinit var newsListProvider: NewsListProvider
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        newsList = view.findViewById(R.id.news_list)
-        val model = NewsListParser().parse(resources.assets.open("news.json"))
-        newsList.layoutManager = LinearLayoutManager(view.context, LinearLayoutManager.VERTICAL, false)
-        newsList.adapter = NewsListAdapter(model)
+        swipeRefreshLayout = view.findViewById(R.id.swipeRefreshLayout)
+        newsListView = view.findViewById(R.id.news_list)
+        loadingView = view.findViewById(R.id.loading)
+        swipeRefreshLayout.setOnRefreshListener {
+            refreshNewsList()
+        }
+        refreshNewsList()
+        newsListView.layoutManager = LinearLayoutManager(view.context, LinearLayoutManager.VERTICAL, false)
     }
 
+    private fun refreshNewsList() {
+        newsListProvider.provideNewsList(object : NewsListListener {
+            override fun onNewsListReceived(newsList: NewsListModel?) {
+                swipeRefreshLayout.isRefreshing = false
+                newsList?.let { list ->
+                    loadingView.visibility = View.GONE
+                    newsListView.visibility = View.VISIBLE
+                    newsListView.adapter =  NewsListAdapter(list)
+                    newsListView.adapter?.notifyDataSetChanged()
+                }
+            }
+        })
+    }
 }

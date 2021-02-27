@@ -9,12 +9,12 @@ class NewsListParser : JsonParser<NewsListModel> {
         return parse(JsonReader(json.reader()))
     }
 
-    private fun parse(reader: JsonReader): NewsListModel {
+    override fun parse(reader: JsonReader): NewsListModel {
         val builder = NewsListModel.Builder()
         reader.beginObject()
         while (reader.hasNext()) {
             when (reader.nextName()) {
-                STATUS -> builder.success = reader.nextString() == "OK"
+                STATUS -> builder.success = reader.nextString()
                 NUM_RESULTS -> builder.newsAmount = reader.nextInt()
                 RESULTS -> builder.news = parseResults(reader)
                 else -> reader.skipValue()

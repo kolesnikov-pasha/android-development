@@ -1,12 +1,12 @@
 package com.example.fragmentsexample.model
 
 data class NewsListModel(
-    val success: Boolean,
-    val newsAmount: Int,
-    val news: List<NewsModel>
+    val status: String,
+    val num_results: Int,
+    val results: List<NewsModel>
 ) {
     class Builder(
-        var success: Boolean = false,
+        var success: String = "",
         var newsAmount: Int = 0,
         var news: List<NewsModel> = listOf()
     ) {

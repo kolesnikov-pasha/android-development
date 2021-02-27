@@ -2,7 +2,7 @@ package com.example.fragmentsexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.fragmentsexample.model.NewsListParser
+import com.example.fragmentsexample.api.NewsListProviderImpl
 
 class MainActivity : AppCompatActivity() {
 
@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
             findViewById(R.id.news_holder),
             this::finish
         )
+        newsListFragment.newsListProvider =
+            NewsListProviderImpl()
         newsListFragment.navigationController = navigationController
         newsFragment.navigationController = navigationController
         navigationController.open()

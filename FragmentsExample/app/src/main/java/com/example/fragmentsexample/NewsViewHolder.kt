@@ -4,6 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.fragmentsexample.api.NewsListProvider
 import com.example.fragmentsexample.model.NewsModel
 
 class NewsViewHolder(parent: ViewGroup) : RecyclerView.ViewHolder(
@@ -18,10 +19,13 @@ class NewsViewHolder(parent: ViewGroup) : RecyclerView.ViewHolder(
         section = itemView.findViewById(R.id.section)
         title = itemView.findViewById(R.id.title)
         abstract = itemView.findViewById(R.id.abstract_text)
+        itemView.setOnClickListener {
+
+        }
     }
 
     fun bind(model: NewsModel) {
-        section.text = "${model.section}/${model.subsection}"
+        section.text = "${model.section} / ${model.subsection}"
         title.text = model.title
         abstract.text = model.abstract
     }
