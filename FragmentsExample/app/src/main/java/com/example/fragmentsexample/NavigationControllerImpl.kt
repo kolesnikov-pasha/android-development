@@ -20,15 +20,24 @@ class NavigationControllerImpl(
         if (fragmentManager.findFragmentByTag(NEWS_LIST) != null) {
             return
         }
-        fragmentManager.beginTransaction().add(newsListFragmentHolder.id, newsListFragment, NEWS_LIST).addToBackStack(NEWS_LIST).commit()
+        fragmentManager
+            .beginTransaction()
+            .add(newsListFragmentHolder.id, newsListFragment, NEWS_LIST)
+            .addToBackStack(NEWS_LIST)
+            .commit()
     }
 
-    override fun onNewsClick() {
+    override fun onNewsClick(url: String) {
+        newsFragment.setNewsUrl(url)
         if (fragmentManager.findFragmentByTag(NEWS) != null) {
             return
         }
         newsFragmentHolder.visibility = View.VISIBLE
-        fragmentManager.beginTransaction().add(newsFragmentHolder.id, newsFragment, NEWS).addToBackStack(NEWS).commit()
+        fragmentManager
+            .beginTransaction()
+            .add(newsFragmentHolder.id, newsFragment, NEWS)
+            .addToBackStack(NEWS)
+            .commit()
     }
 
     override fun onNewsClosed() {
@@ -52,5 +61,6 @@ class NavigationControllerImpl(
     private companion object {
         const val NEWS = "news"
         const val NEWS_LIST = "news_list"
+        const val SETTINGS = "settings"
     }
 }

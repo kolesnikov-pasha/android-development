@@ -2,7 +2,7 @@ package com.example.fragmentsexample
 
 interface NavigationController {
     fun open()
-    fun onNewsClick()
+    fun onNewsClick(url: String)
     fun onNewsClosed()
     fun close()
 }

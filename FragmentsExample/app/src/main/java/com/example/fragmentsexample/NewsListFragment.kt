@@ -11,14 +11,17 @@ import com.example.fragmentsexample.api.NewsListProvider
 import com.example.fragmentsexample.model.NewsListModel
 
 class NewsListFragment : Fragment(R.layout.news_list_fragment_layout) {
-    var navigationController: NavigationController? = null
-    lateinit var swipeRefreshLayout: SwipeRefreshLayout
-    lateinit var newsListView: RecyclerView
-    lateinit var loadingView: View
-    lateinit var newsListProvider: NewsListProvider
+    private lateinit var navigationController: NavigationController
+    private lateinit var swipeRefreshLayout: SwipeRefreshLayout
+    private lateinit var newsListView: RecyclerView
+    private lateinit var loadingView: View
+    private lateinit var newsListProvider: NewsListProvider
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        val baseActivity = requireActivity() as MainActivity
+        navigationController = baseActivity.navigationController
+        newsListProvider = baseActivity.newsListProvider
         swipeRefreshLayout = view.findViewById(R.id.swipeRefreshLayout)
         newsListView = view.findViewById(R.id.news_list)
         loadingView = view.findViewById(R.id.loading)
@@ -36,7 +39,9 @@ class NewsListFragment : Fragment(R.layout.news_list_fragment_layout) {
                 newsList?.let { list ->
                     loadingView.visibility = View.GONE
                     newsListView.visibility = View.VISIBLE
-                    newsListView.adapter =  NewsListAdapter(list)
+                    newsListView.adapter = navigationController?.let {
+                        NewsListAdapter(list, it)
+                    }
                     newsListView.adapter?.notifyDataSetChanged()
                 }
             }
