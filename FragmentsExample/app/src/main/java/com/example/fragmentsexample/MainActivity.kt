@@ -3,6 +3,7 @@ package com.example.fragmentsexample
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
+import android.view.MenuItem
 import androidx.appcompat.widget.Toolbar
 import com.example.fragmentsexample.api.NewsListProvider
 import com.example.fragmentsexample.api.NewsListProviderImpl
@@ -38,6 +39,16 @@ class MainActivity : AppCompatActivity() {
     override fun onPause() {
         super.onPause()
         navigationController.close()
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when(item.itemId) {
+            R.id.action_settings -> {
+                navigationController.onSettingsClick(this)
+                true
+            }
+            else -> false
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {

@@ -1,5 +1,7 @@
 package com.example.fragmentsexample
 
+import android.app.Activity
+import android.content.Intent
 import android.view.View
 import androidx.fragment.app.FragmentManager
 
@@ -43,6 +45,12 @@ class NavigationControllerImpl(
     override fun onNewsClosed() {
         newsFragmentHolder.visibility = View.GONE
         fragmentManager.popBackStack()
+    }
+
+    override fun onSettingsClick(activity: Activity) {
+        activity.startActivity(
+            Intent(activity, SettingActivity::class.java)
+        )
     }
 
     override fun close() {
